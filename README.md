@@ -10,4 +10,3 @@ HTML, CSS yanında <a href="https://getbootstrap.com/"> BS </a> de kullanıldı
 
 ![](ekran.gif)# BSPROJE
 # BSPROJE
-# BSPROJE
