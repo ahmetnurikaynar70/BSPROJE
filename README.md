@@ -8,4 +8,4 @@ HTML, CSS yanında <a href="https://getbootstrap.com/"> BS </a> de kullanıldı
 
 <h2> Ekran Görüntüsü </h2>
 
-![](ekran.gif)
+![](ekran.gif)# BSPROJE
